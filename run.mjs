@@ -44,24 +44,12 @@ const options = {
   noReload: true,
 };
 
-// if (options.target === 'firefox-desktop-no-partition') {
-//   options.target = 'firefox-desktop';
-//   options.pref =   {
-//     'privacy.partition.network_state': false
-//   };
-// }
-//
-// if (options.target === 'chromium-no-partition') {
-//   options.target = 'chromium';
-//   options.args = [
-//     '--disable-features=SplitCacheByNetworkIsolationKey'
-//   ]
-// }
-//
 if (options.target === "firefox-desktop") {
   options.firefox = process.argv[3];
-} else {
+} else if (options.target === "chromium") {
   options.chromiumBinary = process.argv[3];
+} else if (options.target === "firefox-android") {
+  options.adbDevice = process.argv[3];
 }
 
 const runner = await webext.cmd.run(options, {

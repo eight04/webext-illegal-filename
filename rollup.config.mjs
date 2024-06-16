@@ -1,3 +1,5 @@
+import * as os from "os";
+
 import copy from 'rollup-plugin-copy-glob';
 import cjs from "rollup-plugin-cjs-es";
 import iife from "rollup-plugin-iife";
@@ -10,11 +12,14 @@ import resolve from "@rollup/plugin-node-resolve";
 //
 import {glob} from "glob";
 
+const ip = findIP();
+
 export default {
   input: await glob("src/*.mjs"),
   output: {
     format: "es",
-    dir: "dist-extension/"
+    dir: "dist-extension/",
+    intro: `const IP = "${ip}";`
   },
   plugins: [
     resolve(),
@@ -46,3 +51,15 @@ export default {
     ])
   ]
 };
+
+function findIP() {
+  const ifaces = os.networkInterfaces();
+  for (const dev in ifaces) {
+    for (const details of ifaces[dev]) {
+      if (details.family === 'IPv4' && !details.internal) {
+        return details.address;
+      }
+    }
+  }
+  throw new Error("No IP found");
+}

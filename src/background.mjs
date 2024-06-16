@@ -1,3 +1,4 @@
+/* global IP */
 import browser from "webextension-polyfill";
 
 init();
@@ -15,25 +16,27 @@ async function init() {
         filename: `test-${i}-${char}.html`
       });
     } catch (err) {
-      await fetch(`http://localhost:8080/report`, {
+      await fetch(`http://${IP}:8080/report`, {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({case: i, status: "failed", err: String(err)})
       });
       continue;
     }
+    console.log(`download id: ${id}`)
     let downloadItem;
     try {
       downloadItem = await downloadComplete(id);
     } catch (err) {
-      await fetch(`http://localhost:8080/report`, {
+      await fetch(`http://${IP}:8080/report`, {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({case: i, status: "failed", err: String(err)})
       });
       continue;
     }
-    await fetch(`http://localhost:8080/report`, {
+    console.log(downloadItem);
+    await fetch(`http://${IP}:8080/report`, {
       method: 'POST',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({case: i, status: "succeeded", filename: downloadItem.filename})
