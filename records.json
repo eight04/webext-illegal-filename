@@ -1,0 +1,1928 @@
+{
+  "ff-129-win10": [
+    {
+      "case": 0,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 1,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 2,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 3,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 4,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 5,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 6,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 7,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 8,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 9,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 10,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 11,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 12,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 13,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 14,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 15,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 16,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 17,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 18,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 19,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 20,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 21,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 22,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 23,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 24,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 25,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 26,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 27,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 28,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 29,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 30,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 31,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 32,
+      "status": "succeeded",
+      "filename": "test-32- .html"
+    },
+    {
+      "case": 33,
+      "status": "succeeded",
+      "filename": "test-33-!.html"
+    },
+    {
+      "case": 34,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 35,
+      "status": "succeeded",
+      "filename": "test-35-#.html"
+    },
+    {
+      "case": 36,
+      "status": "succeeded",
+      "filename": "test-36-$.html"
+    },
+    {
+      "case": 37,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 38,
+      "status": "succeeded",
+      "filename": "test-38-&.html"
+    },
+    {
+      "case": 39,
+      "status": "succeeded",
+      "filename": "test-39-'.html"
+    },
+    {
+      "case": 40,
+      "status": "succeeded",
+      "filename": "test-40-(.html"
+    },
+    {
+      "case": 41,
+      "status": "succeeded",
+      "filename": "test-41-).html"
+    },
+    {
+      "case": 42,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 43,
+      "status": "succeeded",
+      "filename": "test-43-+.html"
+    },
+    {
+      "case": 44,
+      "status": "succeeded",
+      "filename": "test-44-,.html"
+    },
+    {
+      "case": 45,
+      "status": "succeeded",
+      "filename": "test-45--.html"
+    },
+    {
+      "case": 46,
+      "status": "succeeded",
+      "filename": "test-46-..html"
+    },
+    {
+      "case": 47,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 48,
+      "status": "succeeded",
+      "filename": "test-48-0.html"
+    },
+    {
+      "case": 49,
+      "status": "succeeded",
+      "filename": "test-49-1.html"
+    },
+    {
+      "case": 50,
+      "status": "succeeded",
+      "filename": "test-50-2.html"
+    },
+    {
+      "case": 51,
+      "status": "succeeded",
+      "filename": "test-51-3.html"
+    },
+    {
+      "case": 52,
+      "status": "succeeded",
+      "filename": "test-52-4.html"
+    },
+    {
+      "case": 53,
+      "status": "succeeded",
+      "filename": "test-53-5.html"
+    },
+    {
+      "case": 54,
+      "status": "succeeded",
+      "filename": "test-54-6.html"
+    },
+    {
+      "case": 55,
+      "status": "succeeded",
+      "filename": "test-55-7.html"
+    },
+    {
+      "case": 56,
+      "status": "succeeded",
+      "filename": "test-56-8.html"
+    },
+    {
+      "case": 57,
+      "status": "succeeded",
+      "filename": "test-57-9.html"
+    },
+    {
+      "case": 58,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 59,
+      "status": "succeeded",
+      "filename": "test-59-;.html"
+    },
+    {
+      "case": 60,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 61,
+      "status": "succeeded",
+      "filename": "test-61-=.html"
+    },
+    {
+      "case": 62,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 63,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 64,
+      "status": "succeeded",
+      "filename": "test-64-@.html"
+    },
+    {
+      "case": 65,
+      "status": "succeeded",
+      "filename": "test-65-A.html"
+    },
+    {
+      "case": 66,
+      "status": "succeeded",
+      "filename": "test-66-B.html"
+    },
+    {
+      "case": 67,
+      "status": "succeeded",
+      "filename": "test-67-C.html"
+    },
+    {
+      "case": 68,
+      "status": "succeeded",
+      "filename": "test-68-D.html"
+    },
+    {
+      "case": 69,
+      "status": "succeeded",
+      "filename": "test-69-E.html"
+    },
+    {
+      "case": 70,
+      "status": "succeeded",
+      "filename": "test-70-F.html"
+    },
+    {
+      "case": 71,
+      "status": "succeeded",
+      "filename": "test-71-G.html"
+    },
+    {
+      "case": 72,
+      "status": "succeeded",
+      "filename": "test-72-H.html"
+    },
+    {
+      "case": 73,
+      "status": "succeeded",
+      "filename": "test-73-I.html"
+    },
+    {
+      "case": 74,
+      "status": "succeeded",
+      "filename": "test-74-J.html"
+    },
+    {
+      "case": 75,
+      "status": "succeeded",
+      "filename": "test-75-K.html"
+    },
+    {
+      "case": 76,
+      "status": "succeeded",
+      "filename": "test-76-L.html"
+    },
+    {
+      "case": 77,
+      "status": "succeeded",
+      "filename": "test-77-M.html"
+    },
+    {
+      "case": 78,
+      "status": "succeeded",
+      "filename": "test-78-N.html"
+    },
+    {
+      "case": 79,
+      "status": "succeeded",
+      "filename": "test-79-O.html"
+    },
+    {
+      "case": 80,
+      "status": "succeeded",
+      "filename": "test-80-P.html"
+    },
+    {
+      "case": 81,
+      "status": "succeeded",
+      "filename": "test-81-Q.html"
+    },
+    {
+      "case": 82,
+      "status": "succeeded",
+      "filename": "test-82-R.html"
+    },
+    {
+      "case": 83,
+      "status": "succeeded",
+      "filename": "test-83-S.html"
+    },
+    {
+      "case": 84,
+      "status": "succeeded",
+      "filename": "test-84-T.html"
+    },
+    {
+      "case": 85,
+      "status": "succeeded",
+      "filename": "test-85-U.html"
+    },
+    {
+      "case": 86,
+      "status": "succeeded",
+      "filename": "test-86-V.html"
+    },
+    {
+      "case": 87,
+      "status": "succeeded",
+      "filename": "test-87-W.html"
+    },
+    {
+      "case": 88,
+      "status": "succeeded",
+      "filename": "test-88-X.html"
+    },
+    {
+      "case": 89,
+      "status": "succeeded",
+      "filename": "test-89-Y.html"
+    },
+    {
+      "case": 90,
+      "status": "succeeded",
+      "filename": "test-90-Z.html"
+    },
+    {
+      "case": 91,
+      "status": "succeeded",
+      "filename": "test-91-[.html"
+    },
+    {
+      "case": 92,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 93,
+      "status": "succeeded",
+      "filename": "test-93-].html"
+    },
+    {
+      "case": 94,
+      "status": "succeeded",
+      "filename": "test-94-^.html"
+    },
+    {
+      "case": 95,
+      "status": "succeeded",
+      "filename": "test-95-_.html"
+    },
+    {
+      "case": 96,
+      "status": "succeeded",
+      "filename": "test-96-`.html"
+    },
+    {
+      "case": 97,
+      "status": "succeeded",
+      "filename": "test-97-a.html"
+    },
+    {
+      "case": 98,
+      "status": "succeeded",
+      "filename": "test-98-b.html"
+    },
+    {
+      "case": 99,
+      "status": "succeeded",
+      "filename": "test-99-c.html"
+    },
+    {
+      "case": 100,
+      "status": "succeeded",
+      "filename": "test-100-d.html"
+    },
+    {
+      "case": 101,
+      "status": "succeeded",
+      "filename": "test-101-e.html"
+    },
+    {
+      "case": 102,
+      "status": "succeeded",
+      "filename": "test-102-f.html"
+    },
+    {
+      "case": 103,
+      "status": "succeeded",
+      "filename": "test-103-g.html"
+    },
+    {
+      "case": 104,
+      "status": "succeeded",
+      "filename": "test-104-h.html"
+    },
+    {
+      "case": 105,
+      "status": "succeeded",
+      "filename": "test-105-i.html"
+    },
+    {
+      "case": 106,
+      "status": "succeeded",
+      "filename": "test-106-j.html"
+    },
+    {
+      "case": 107,
+      "status": "succeeded",
+      "filename": "test-107-k.html"
+    },
+    {
+      "case": 108,
+      "status": "succeeded",
+      "filename": "test-108-l.html"
+    },
+    {
+      "case": 109,
+      "status": "succeeded",
+      "filename": "test-109-m.html"
+    },
+    {
+      "case": 110,
+      "status": "succeeded",
+      "filename": "test-110-n.html"
+    },
+    {
+      "case": 111,
+      "status": "succeeded",
+      "filename": "test-111-o.html"
+    },
+    {
+      "case": 112,
+      "status": "succeeded",
+      "filename": "test-112-p.html"
+    },
+    {
+      "case": 113,
+      "status": "succeeded",
+      "filename": "test-113-q.html"
+    },
+    {
+      "case": 114,
+      "status": "succeeded",
+      "filename": "test-114-r.html"
+    },
+    {
+      "case": 115,
+      "status": "succeeded",
+      "filename": "test-115-s.html"
+    },
+    {
+      "case": 116,
+      "status": "succeeded",
+      "filename": "test-116-t.html"
+    },
+    {
+      "case": 117,
+      "status": "succeeded",
+      "filename": "test-117-u.html"
+    },
+    {
+      "case": 118,
+      "status": "succeeded",
+      "filename": "test-118-v.html"
+    },
+    {
+      "case": 119,
+      "status": "succeeded",
+      "filename": "test-119-w.html"
+    },
+    {
+      "case": 120,
+      "status": "succeeded",
+      "filename": "test-120-x.html"
+    },
+    {
+      "case": 121,
+      "status": "succeeded",
+      "filename": "test-121-y.html"
+    },
+    {
+      "case": 122,
+      "status": "succeeded",
+      "filename": "test-122-z.html"
+    },
+    {
+      "case": 123,
+      "status": "succeeded",
+      "filename": "test-123-{.html"
+    },
+    {
+      "case": 124,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 125,
+      "status": "succeeded",
+      "filename": "test-125-}.html"
+    },
+    {
+      "case": 126,
+      "status": "succeeded",
+      "filename": "test-126-~.html"
+    },
+    {
+      "case": 127,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    }
+  ],
+  "ff-126-win10": [
+    {
+      "case": 0,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 1,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 2,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 3,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 4,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 5,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 6,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 7,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 8,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 9,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 10,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 11,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 12,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 13,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 14,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 15,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 16,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 17,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 18,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 19,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 20,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 21,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 22,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 23,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 24,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 25,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 26,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 27,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 28,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 29,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 30,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 31,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 32,
+      "status": "succeeded",
+      "filename": "test-32- .html"
+    },
+    {
+      "case": 33,
+      "status": "succeeded",
+      "filename": "test-33-!.html"
+    },
+    {
+      "case": 34,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 35,
+      "status": "succeeded",
+      "filename": "test-35-#.html"
+    },
+    {
+      "case": 36,
+      "status": "succeeded",
+      "filename": "test-36-$.html"
+    },
+    {
+      "case": 37,
+      "status": "succeeded",
+      "filename": "test-37-%.html"
+    },
+    {
+      "case": 38,
+      "status": "succeeded",
+      "filename": "test-38-&.html"
+    },
+    {
+      "case": 39,
+      "status": "succeeded",
+      "filename": "test-39-'.html"
+    },
+    {
+      "case": 40,
+      "status": "succeeded",
+      "filename": "test-40-(.html"
+    },
+    {
+      "case": 41,
+      "status": "succeeded",
+      "filename": "test-41-).html"
+    },
+    {
+      "case": 42,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 43,
+      "status": "succeeded",
+      "filename": "test-43-+.html"
+    },
+    {
+      "case": 44,
+      "status": "succeeded",
+      "filename": "test-44-,.html"
+    },
+    {
+      "case": 45,
+      "status": "succeeded",
+      "filename": "test-45--.html"
+    },
+    {
+      "case": 46,
+      "status": "succeeded",
+      "filename": "test-46-..html"
+    },
+    {
+      "case": 47,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 48,
+      "status": "succeeded",
+      "filename": "test-48-0.html"
+    },
+    {
+      "case": 49,
+      "status": "succeeded",
+      "filename": "test-49-1.html"
+    },
+    {
+      "case": 50,
+      "status": "succeeded",
+      "filename": "test-50-2.html"
+    },
+    {
+      "case": 51,
+      "status": "succeeded",
+      "filename": "test-51-3.html"
+    },
+    {
+      "case": 52,
+      "status": "succeeded",
+      "filename": "test-52-4.html"
+    },
+    {
+      "case": 53,
+      "status": "succeeded",
+      "filename": "test-53-5.html"
+    },
+    {
+      "case": 54,
+      "status": "succeeded",
+      "filename": "test-54-6.html"
+    },
+    {
+      "case": 55,
+      "status": "succeeded",
+      "filename": "test-55-7.html"
+    },
+    {
+      "case": 56,
+      "status": "succeeded",
+      "filename": "test-56-8.html"
+    },
+    {
+      "case": 57,
+      "status": "succeeded",
+      "filename": "test-57-9.html"
+    },
+    {
+      "case": 58,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 59,
+      "status": "succeeded",
+      "filename": "test-59-;.html"
+    },
+    {
+      "case": 60,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 61,
+      "status": "succeeded",
+      "filename": "test-61-=.html"
+    },
+    {
+      "case": 62,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 63,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 64,
+      "status": "succeeded",
+      "filename": "test-64-@.html"
+    },
+    {
+      "case": 65,
+      "status": "succeeded",
+      "filename": "test-65-A.html"
+    },
+    {
+      "case": 66,
+      "status": "succeeded",
+      "filename": "test-66-B.html"
+    },
+    {
+      "case": 67,
+      "status": "succeeded",
+      "filename": "test-67-C.html"
+    },
+    {
+      "case": 68,
+      "status": "succeeded",
+      "filename": "test-68-D.html"
+    },
+    {
+      "case": 69,
+      "status": "succeeded",
+      "filename": "test-69-E.html"
+    },
+    {
+      "case": 70,
+      "status": "succeeded",
+      "filename": "test-70-F.html"
+    },
+    {
+      "case": 71,
+      "status": "succeeded",
+      "filename": "test-71-G.html"
+    },
+    {
+      "case": 72,
+      "status": "succeeded",
+      "filename": "test-72-H.html"
+    },
+    {
+      "case": 73,
+      "status": "succeeded",
+      "filename": "test-73-I.html"
+    },
+    {
+      "case": 74,
+      "status": "succeeded",
+      "filename": "test-74-J.html"
+    },
+    {
+      "case": 75,
+      "status": "succeeded",
+      "filename": "test-75-K.html"
+    },
+    {
+      "case": 76,
+      "status": "succeeded",
+      "filename": "test-76-L.html"
+    },
+    {
+      "case": 77,
+      "status": "succeeded",
+      "filename": "test-77-M.html"
+    },
+    {
+      "case": 78,
+      "status": "succeeded",
+      "filename": "test-78-N.html"
+    },
+    {
+      "case": 79,
+      "status": "succeeded",
+      "filename": "test-79-O.html"
+    },
+    {
+      "case": 80,
+      "status": "succeeded",
+      "filename": "test-80-P.html"
+    },
+    {
+      "case": 81,
+      "status": "succeeded",
+      "filename": "test-81-Q.html"
+    },
+    {
+      "case": 82,
+      "status": "succeeded",
+      "filename": "test-82-R.html"
+    },
+    {
+      "case": 83,
+      "status": "succeeded",
+      "filename": "test-83-S.html"
+    },
+    {
+      "case": 84,
+      "status": "succeeded",
+      "filename": "test-84-T.html"
+    },
+    {
+      "case": 85,
+      "status": "succeeded",
+      "filename": "test-85-U.html"
+    },
+    {
+      "case": 86,
+      "status": "succeeded",
+      "filename": "test-86-V.html"
+    },
+    {
+      "case": 87,
+      "status": "succeeded",
+      "filename": "test-87-W.html"
+    },
+    {
+      "case": 88,
+      "status": "succeeded",
+      "filename": "test-88-X.html"
+    },
+    {
+      "case": 89,
+      "status": "succeeded",
+      "filename": "test-89-Y.html"
+    },
+    {
+      "case": 90,
+      "status": "succeeded",
+      "filename": "test-90-Z.html"
+    },
+    {
+      "case": 91,
+      "status": "succeeded",
+      "filename": "test-91-[.html"
+    },
+    {
+      "case": 92,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 93,
+      "status": "succeeded",
+      "filename": "test-93-].html"
+    },
+    {
+      "case": 94,
+      "status": "succeeded",
+      "filename": "test-94-^.html"
+    },
+    {
+      "case": 95,
+      "status": "succeeded",
+      "filename": "test-95-_.html"
+    },
+    {
+      "case": 96,
+      "status": "succeeded",
+      "filename": "test-96-`.html"
+    },
+    {
+      "case": 97,
+      "status": "succeeded",
+      "filename": "test-97-a.html"
+    },
+    {
+      "case": 98,
+      "status": "succeeded",
+      "filename": "test-98-b.html"
+    },
+    {
+      "case": 99,
+      "status": "succeeded",
+      "filename": "test-99-c.html"
+    },
+    {
+      "case": 100,
+      "status": "succeeded",
+      "filename": "test-100-d.html"
+    },
+    {
+      "case": 101,
+      "status": "succeeded",
+      "filename": "test-101-e.html"
+    },
+    {
+      "case": 102,
+      "status": "succeeded",
+      "filename": "test-102-f.html"
+    },
+    {
+      "case": 103,
+      "status": "succeeded",
+      "filename": "test-103-g.html"
+    },
+    {
+      "case": 104,
+      "status": "succeeded",
+      "filename": "test-104-h.html"
+    },
+    {
+      "case": 105,
+      "status": "succeeded",
+      "filename": "test-105-i.html"
+    },
+    {
+      "case": 106,
+      "status": "succeeded",
+      "filename": "test-106-j.html"
+    },
+    {
+      "case": 107,
+      "status": "succeeded",
+      "filename": "test-107-k.html"
+    },
+    {
+      "case": 108,
+      "status": "succeeded",
+      "filename": "test-108-l.html"
+    },
+    {
+      "case": 109,
+      "status": "succeeded",
+      "filename": "test-109-m.html"
+    },
+    {
+      "case": 110,
+      "status": "succeeded",
+      "filename": "test-110-n.html"
+    },
+    {
+      "case": 111,
+      "status": "succeeded",
+      "filename": "test-111-o.html"
+    },
+    {
+      "case": 112,
+      "status": "succeeded",
+      "filename": "test-112-p.html"
+    },
+    {
+      "case": 113,
+      "status": "succeeded",
+      "filename": "test-113-q.html"
+    },
+    {
+      "case": 114,
+      "status": "succeeded",
+      "filename": "test-114-r.html"
+    },
+    {
+      "case": 115,
+      "status": "succeeded",
+      "filename": "test-115-s.html"
+    },
+    {
+      "case": 116,
+      "status": "succeeded",
+      "filename": "test-116-t.html"
+    },
+    {
+      "case": 117,
+      "status": "succeeded",
+      "filename": "test-117-u.html"
+    },
+    {
+      "case": 118,
+      "status": "succeeded",
+      "filename": "test-118-v.html"
+    },
+    {
+      "case": 119,
+      "status": "succeeded",
+      "filename": "test-119-w.html"
+    },
+    {
+      "case": 120,
+      "status": "succeeded",
+      "filename": "test-120-x.html"
+    },
+    {
+      "case": 121,
+      "status": "succeeded",
+      "filename": "test-121-y.html"
+    },
+    {
+      "case": 122,
+      "status": "succeeded",
+      "filename": "test-122-z.html"
+    },
+    {
+      "case": 123,
+      "status": "succeeded",
+      "filename": "test-123-{.html"
+    },
+    {
+      "case": 124,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    },
+    {
+      "case": 125,
+      "status": "succeeded",
+      "filename": "test-125-}.html"
+    },
+    {
+      "case": 126,
+      "status": "succeeded",
+      "filename": "test-126-~.html"
+    },
+    {
+      "case": 127,
+      "status": "failed",
+      "err": "Error: filename must not contain illegal characters"
+    }
+  ],
+  "edge-126-win10": [
+    {
+      "case": 0,
+      "status": "succeeded",
+      "filename": "test-0-"
+    },
+    {
+      "case": 1,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 2,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 3,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 4,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 5,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 6,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 7,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 8,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 9,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 10,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 11,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 12,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 13,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 14,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 15,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 16,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 17,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 18,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 19,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 20,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 21,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 22,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 23,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 24,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 25,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 26,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 27,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 28,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 29,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 30,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 31,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 32,
+      "status": "succeeded",
+      "filename": "test-32- .html"
+    },
+    {
+      "case": 33,
+      "status": "succeeded",
+      "filename": "test-33-!.html"
+    },
+    {
+      "case": 34,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 35,
+      "status": "succeeded",
+      "filename": "test-35-#.html"
+    },
+    {
+      "case": 36,
+      "status": "succeeded",
+      "filename": "test-36-$.html"
+    },
+    {
+      "case": 37,
+      "status": "succeeded",
+      "filename": "test-37-_.html"
+    },
+    {
+      "case": 38,
+      "status": "succeeded",
+      "filename": "test-38-&.html"
+    },
+    {
+      "case": 39,
+      "status": "succeeded",
+      "filename": "test-39-'.html"
+    },
+    {
+      "case": 40,
+      "status": "succeeded",
+      "filename": "test-40-(.html"
+    },
+    {
+      "case": 41,
+      "status": "succeeded",
+      "filename": "test-41-).html"
+    },
+    {
+      "case": 42,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 43,
+      "status": "succeeded",
+      "filename": "test-43-+.html"
+    },
+    {
+      "case": 44,
+      "status": "succeeded",
+      "filename": "test-44-,.html"
+    },
+    {
+      "case": 45,
+      "status": "succeeded",
+      "filename": "test-45--.html"
+    },
+    {
+      "case": 46,
+      "status": "succeeded",
+      "filename": "test-46-..html"
+    },
+    {
+      "case": 47,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 48,
+      "status": "succeeded",
+      "filename": "test-48-0.html"
+    },
+    {
+      "case": 49,
+      "status": "succeeded",
+      "filename": "test-49-1.html"
+    },
+    {
+      "case": 50,
+      "status": "succeeded",
+      "filename": "test-50-2.html"
+    },
+    {
+      "case": 51,
+      "status": "succeeded",
+      "filename": "test-51-3.html"
+    },
+    {
+      "case": 52,
+      "status": "succeeded",
+      "filename": "test-52-4.html"
+    },
+    {
+      "case": 53,
+      "status": "succeeded",
+      "filename": "test-53-5.html"
+    },
+    {
+      "case": 54,
+      "status": "succeeded",
+      "filename": "test-54-6.html"
+    },
+    {
+      "case": 55,
+      "status": "succeeded",
+      "filename": "test-55-7.html"
+    },
+    {
+      "case": 56,
+      "status": "succeeded",
+      "filename": "test-56-8.html"
+    },
+    {
+      "case": 57,
+      "status": "succeeded",
+      "filename": "test-57-9.html"
+    },
+    {
+      "case": 58,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 59,
+      "status": "succeeded",
+      "filename": "test-59-;.html"
+    },
+    {
+      "case": 60,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 61,
+      "status": "succeeded",
+      "filename": "test-61-=.html"
+    },
+    {
+      "case": 62,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 63,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 64,
+      "status": "succeeded",
+      "filename": "test-64-@.html"
+    },
+    {
+      "case": 65,
+      "status": "succeeded",
+      "filename": "test-65-A.html"
+    },
+    {
+      "case": 66,
+      "status": "succeeded",
+      "filename": "test-66-B.html"
+    },
+    {
+      "case": 67,
+      "status": "succeeded",
+      "filename": "test-67-C.html"
+    },
+    {
+      "case": 68,
+      "status": "succeeded",
+      "filename": "test-68-D.html"
+    },
+    {
+      "case": 69,
+      "status": "succeeded",
+      "filename": "test-69-E.html"
+    },
+    {
+      "case": 70,
+      "status": "succeeded",
+      "filename": "test-70-F.html"
+    },
+    {
+      "case": 71,
+      "status": "succeeded",
+      "filename": "test-71-G.html"
+    },
+    {
+      "case": 72,
+      "status": "succeeded",
+      "filename": "test-72-H.html"
+    },
+    {
+      "case": 73,
+      "status": "succeeded",
+      "filename": "test-73-I.html"
+    },
+    {
+      "case": 74,
+      "status": "succeeded",
+      "filename": "test-74-J.html"
+    },
+    {
+      "case": 75,
+      "status": "succeeded",
+      "filename": "test-75-K.html"
+    },
+    {
+      "case": 76,
+      "status": "succeeded",
+      "filename": "test-76-L.html"
+    },
+    {
+      "case": 77,
+      "status": "succeeded",
+      "filename": "test-77-M.html"
+    },
+    {
+      "case": 78,
+      "status": "succeeded",
+      "filename": "test-78-N.html"
+    },
+    {
+      "case": 79,
+      "status": "succeeded",
+      "filename": "test-79-O.html"
+    },
+    {
+      "case": 80,
+      "status": "succeeded",
+      "filename": "test-80-P.html"
+    },
+    {
+      "case": 81,
+      "status": "succeeded",
+      "filename": "test-81-Q.html"
+    },
+    {
+      "case": 82,
+      "status": "succeeded",
+      "filename": "test-82-R.html"
+    },
+    {
+      "case": 83,
+      "status": "succeeded",
+      "filename": "test-83-S.html"
+    },
+    {
+      "case": 84,
+      "status": "succeeded",
+      "filename": "test-84-T.html"
+    },
+    {
+      "case": 85,
+      "status": "succeeded",
+      "filename": "test-85-U.html"
+    },
+    {
+      "case": 86,
+      "status": "succeeded",
+      "filename": "test-86-V.html"
+    },
+    {
+      "case": 87,
+      "status": "succeeded",
+      "filename": "test-87-W.html"
+    },
+    {
+      "case": 88,
+      "status": "succeeded",
+      "filename": "test-88-X.html"
+    },
+    {
+      "case": 89,
+      "status": "succeeded",
+      "filename": "test-89-Y.html"
+    },
+    {
+      "case": 90,
+      "status": "succeeded",
+      "filename": "test-90-Z.html"
+    },
+    {
+      "case": 91,
+      "status": "succeeded",
+      "filename": "test-91-[.html"
+    },
+    {
+      "case": 92,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 93,
+      "status": "succeeded",
+      "filename": "test-93-].html"
+    },
+    {
+      "case": 94,
+      "status": "succeeded",
+      "filename": "test-94-^.html"
+    },
+    {
+      "case": 95,
+      "status": "succeeded",
+      "filename": "test-95-_.html"
+    },
+    {
+      "case": 96,
+      "status": "succeeded",
+      "filename": "test-96-`.html"
+    },
+    {
+      "case": 97,
+      "status": "succeeded",
+      "filename": "test-97-a.html"
+    },
+    {
+      "case": 98,
+      "status": "succeeded",
+      "filename": "test-98-b.html"
+    },
+    {
+      "case": 99,
+      "status": "succeeded",
+      "filename": "test-99-c.html"
+    },
+    {
+      "case": 100,
+      "status": "succeeded",
+      "filename": "test-100-d.html"
+    },
+    {
+      "case": 101,
+      "status": "succeeded",
+      "filename": "test-101-e.html"
+    },
+    {
+      "case": 102,
+      "status": "succeeded",
+      "filename": "test-102-f.html"
+    },
+    {
+      "case": 103,
+      "status": "succeeded",
+      "filename": "test-103-g.html"
+    },
+    {
+      "case": 104,
+      "status": "succeeded",
+      "filename": "test-104-h.html"
+    },
+    {
+      "case": 105,
+      "status": "succeeded",
+      "filename": "test-105-i.html"
+    },
+    {
+      "case": 106,
+      "status": "succeeded",
+      "filename": "test-106-j.html"
+    },
+    {
+      "case": 107,
+      "status": "succeeded",
+      "filename": "test-107-k.html"
+    },
+    {
+      "case": 108,
+      "status": "succeeded",
+      "filename": "test-108-l.html"
+    },
+    {
+      "case": 109,
+      "status": "succeeded",
+      "filename": "test-109-m.html"
+    },
+    {
+      "case": 110,
+      "status": "succeeded",
+      "filename": "test-110-n.html"
+    },
+    {
+      "case": 111,
+      "status": "succeeded",
+      "filename": "test-111-o.html"
+    },
+    {
+      "case": 112,
+      "status": "succeeded",
+      "filename": "test-112-p.html"
+    },
+    {
+      "case": 113,
+      "status": "succeeded",
+      "filename": "test-113-q.html"
+    },
+    {
+      "case": 114,
+      "status": "succeeded",
+      "filename": "test-114-r.html"
+    },
+    {
+      "case": 115,
+      "status": "succeeded",
+      "filename": "test-115-s.html"
+    },
+    {
+      "case": 116,
+      "status": "succeeded",
+      "filename": "test-116-t.html"
+    },
+    {
+      "case": 117,
+      "status": "succeeded",
+      "filename": "test-117-u.html"
+    },
+    {
+      "case": 118,
+      "status": "succeeded",
+      "filename": "test-118-v.html"
+    },
+    {
+      "case": 119,
+      "status": "succeeded",
+      "filename": "test-119-w.html"
+    },
+    {
+      "case": 120,
+      "status": "succeeded",
+      "filename": "test-120-x.html"
+    },
+    {
+      "case": 121,
+      "status": "succeeded",
+      "filename": "test-121-y.html"
+    },
+    {
+      "case": 122,
+      "status": "succeeded",
+      "filename": "test-122-z.html"
+    },
+    {
+      "case": 123,
+      "status": "succeeded",
+      "filename": "test-123-{.html"
+    },
+    {
+      "case": 124,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    },
+    {
+      "case": 125,
+      "status": "succeeded",
+      "filename": "test-125-}.html"
+    },
+    {
+      "case": 126,
+      "status": "succeeded",
+      "filename": "test-126-~.html"
+    },
+    {
+      "case": 127,
+      "status": "failed",
+      "err": "Error: Invalid filename"
+    }
+  ]
+}
