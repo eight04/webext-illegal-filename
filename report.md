@@ -1,4 +1,4 @@
-### ff126-w10
+### Firefox 126 + Windows 10 (base data)
 Invalid ranges:
 * char-0 - char-31
 * char-34 - char-34
@@ -10,15 +10,15 @@ Invalid ranges:
 * char-92 - char-92
 * char-124 - char-124
 * char-127 - char-127
-### ff129-w10
-| Case               | Compare to ff126-w10                                                             |
-| ------------------ | -------------------------------------------------------------------------------- |
-| char-37            | test-37-_.html vs. test-37-%.html                                                |
-| dot-space-folder   | Error: filename must not contain illegal characters vs. 1. This is foo\bar.html  |
-| dot-space-2-folder | Error: filename must not contain illegal characters vs. 1.This is foo\bar.html   |
-| dot-space-3-folder | Error: filename must not contain illegal characters vs. 1.1 This is foo\bar.html |
-### edge126-w10
-| Case    | Compare to ff126-w10                                            |
-| ------- | --------------------------------------------------------------- |
-| char-0  | test-0- vs. Error: filename must not contain illegal characters |
-| char-37 | test-37-_.html vs. test-37-%.html                               |
+### Firefox Nightly 129 + Windows 10
+| Case               | Result                                              | Base result              |
+| ------------------ | --------------------------------------------------- | ------------------------ |
+| char-37            | test-37-_.html                                      | test-37-%.html           |
+| dot-space-folder   | Error: filename must not contain illegal characters | 1. This is foo\bar.html  |
+| dot-space-2-folder | Error: filename must not contain illegal characters | 1.This is foo\bar.html   |
+| dot-space-3-folder | Error: filename must not contain illegal characters | 1.1 This is foo\bar.html |
+### Edge 126 + Windows 10
+| Case    | Result         | Base result                                         |
+| ------- | -------------- | --------------------------------------------------- |
+| char-0  | test-0-        | Error: filename must not contain illegal characters |
+| char-37 | test-37-_.html | test-37-%.html                                      |

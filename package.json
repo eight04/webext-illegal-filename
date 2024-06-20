@@ -20,12 +20,8 @@
   },
   "scripts": {
     "build": "shx rm -rf dist-extension/* && rollup -c",
-    "build-report": "node build-report.mjs",
     "test": "eslint . --cache && web-ext lint",
-    "preversion": "npm test",
-    "version": "npm run build && git add .",
-    "postversion": "git push --follow-tags",
-    "start": "web-ext run"
+    "start": "node test/run.mjs"
   },
   "eslintIgnore": [
     "dist-extension",
@@ -33,6 +29,8 @@
   ],
   "private": true,
   "dependencies": {
+    "is-subdir": "^1.2.0",
+    "promise-toolbox": "^0.21.0",
     "webextension-polyfill": "^0.12.0"
   },
   "webExt": {
