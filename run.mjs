@@ -25,7 +25,7 @@ const htmlServer = createServer((req, res) => {
     req.on('end', () => {
       const record = JSON.parse(body);
       if (record.filename) {
-        record.filename = path.basename(record.filename);
+        record.filename = absPathToRelPath(record.filename);
       }
       console.log(record);
       records.push(record);
@@ -81,3 +81,15 @@ await fs.writeFile(`records.json`, JSON.stringify(o, null, 2));
 htmlServer.close();
 rl.close();
 
+function absPathToRelPath(absPath) {
+  // FIXME: need a cross platform way to get the download folder
+  if (!path.isAbsolute(absPath)) {
+    return absPath;
+  }
+  const match = absPath.match(/downloads[/\\](.*)/i);
+  if (!match) {
+    console.warn("Could not convert absolute path to relative path", absPath)
+    return absPath;
+  }
+  return match[1];
+}

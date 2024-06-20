@@ -43,20 +43,22 @@ rl.close();
 function findInvalidRanges(arr) {
   const ranges = [];
   let start = null;
+  let end = null;
   for (const c of arr) {
     if (c.err) {
       if (start === null) {
         start = c.case;
       }
+      end = c.case;
     } else {
       if (start !== null) {
-        ranges.push([start, c.case - 1]);
-        start = null;
+        ranges.push([start, end]);
+        start = end = null;
       }
     }
   }
   if (start !== null) {
-    ranges.push([start, arr[arr.length - 1].case]);
+    ranges.push([start, end]);
   }
   return ranges;
 }
